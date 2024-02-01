@@ -1,5 +1,6 @@
-Serious safety signals and prediction features following COVID-19 mRNA vaccines using the vaccine adverse event re-porting system
-This is the the repository of the paper
+Serious safety signals and prediction features following COVID-19 mRNA vaccines using the vaccine adverse event reporting system
+
+This is the repository of the paper
 
 Files details:
 
